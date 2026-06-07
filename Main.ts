@@ -1,6 +1,6 @@
 import { runStart } from "./Yuu API/RegisterStart";
 
 
-console.log('Running Start From World Files');
+console.log('Running Start From Yuu Paint');
 
 runStart();
